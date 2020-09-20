@@ -2,7 +2,7 @@
 - Developer in test
 - pavel.tabako@gmail.com
 - +375(33)6370896
-- linkedin.com/in/pavel-tabako
+- [Linkedin](https://www.linkedin.com/in/pavel-tabako/)
 &nbsp;
 # Summary of Qualifications
 Energetic IT technician at a warehouse of over 300 factory employees. 3+ years of experience with factory instruments and office hardware, software, and network connectivity. Increased performance by 5% after spearheading a building-wide OS upgrade. Seeking to leverage wide spectrum of IT knowledge and tech skills to become the next IT technician at Cellubop Gershwin Enterprises.
@@ -40,7 +40,6 @@ New Mexico State University, Las Cruces, NM
 - LAN & WAN Connectivity & Maintenance
 - Computer Hardware Systems & Components
 - People Skills & Friendly, Helpful Attitude
-
 &nbsp;
 # Languages
 - Portuguese (Brazilian): Elementary Proficiency
