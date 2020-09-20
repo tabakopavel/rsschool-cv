@@ -1,0 +1,39 @@
+main {
+    background-color: lightblue;
+}
+
+h2 {
+    color: black;
+}
+.main-info{
+
+}
+
+.main-info-h{
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    font-size: 200%;
+}
+
+.main-info-h-small{
+    font-family: 'Luckiest Guy', cursive;
+    text-align: left;
+    font-size: 130%;
+}
+.main-info-text{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 100%;
+}
+.container__image {
+    width: 250px;
+    float: left;
+}
+
+.container__text {
+    display: inline;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: right;
+}
+
+
+
