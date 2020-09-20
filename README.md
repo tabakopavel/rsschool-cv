@@ -1,1 +1,2 @@
-https://github.com/tabakopavel/rsschool-cv/cv
+- https://tabakopavel.github.io/rsschool-cv/cv
+- https://tabakopavel.github.io/rsschool-cv/
