@@ -1,27 +1,27 @@
 # Tabako Pavel 
-Developer in test
-pavel.tabako@gmail.com
-+375(33)6370896
-linkedin.com/in/pavel-tabako
+- Developer in test
+- pavel.tabako@gmail.com
+- +375(33)6370896
+- linkedin.com/in/pavel-tabako
 &nbsp;
 # Summary of Qualifications
 Energetic IT technician at a warehouse of over 300 factory employees. 3+ years of experience with factory instruments and office hardware, software, and network connectivity. Increased performance by 5% after spearheading a building-wide OS upgrade. Seeking to leverage wide spectrum of IT knowledge and tech skills to become the next IT technician at Cellubop Gershwin Enterprises.
 # Work Experience
-##### **IT Technician**
+### **IT Technician**
 January 2018–July 2019
 GenConn Technoceuticals, Cincinnati, OH
-##### **Key Qualifications & Responsibilities**
+### **Key Qualifications & Responsibilities**
 Maintained hardware performance, network connectivity, and software updates in a factory of 300+ workers.
 Took over onboarding classes for factory hardware for all new employees.
 Diagnosed issues with warehouse-critical hardware and software, including handheld computers and station-specific systems.
-##### **Key Achievements**
+### **Key Achievements**
 Increased performance by 5% by spearheading warehouse-wide upgrade of computer systems from OS 3.5 to OS 4.1.
 Replaced receiving team’s handheld computers, coming in $5,000 under budget while purchasing devices which are guaranteed to last over 5 years.
  &nbsp;
-##### **IT Technician Assistant**
+### **IT Technician Assistant**
 November 2015–December 2017
 10G Networkz, Cincinnati, OH
-##### **Key Qualifications & Responsibilities**
+### **Key Qualifications & Responsibilities**
 Troubleshooted all network connection problems which arose for clients in the Cincinnati region.
 Assisted clients in maintaining optimal connectivity and bandwidth.
 Supported internal administrative team at 10G Networkz with hardware and software issues (e.g., printers, scanners, computers, routers).
