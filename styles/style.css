@@ -2,28 +2,36 @@ main {
     background-color: lightblue;
 }
 
+.body-auto {
+    width: 70%;
+    margin: auto;
+}
+
 h2 {
     color: black;
 }
-.main-info{
+
+.main-info {
 
 }
 
-.main-info-h{
+.main-info-h {
     font-family: 'Luckiest Guy', cursive;
     text-align: center;
     font-size: 200%;
 }
 
-.main-info-h-small{
+.main-info-h-small {
     font-family: 'Luckiest Guy', cursive;
     text-align: left;
     font-size: 130%;
 }
-.main-info-text{
+
+.main-info-text {
     font-family: 'Luckiest Guy', cursive;
     font-size: 100%;
 }
+
 .container__image {
     width: 250px;
     float: left;
